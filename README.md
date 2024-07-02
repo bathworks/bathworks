@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bathworks
 - The Github account for Bardos Thodol Works
-- 🌱 I’m currently learning: Python, Javascript, Web Building, Smart Contracts
-- 💞️ I’m looking to collaborate on NFT Games
-- 📫 How to reach me: https://bardosthodolworks.com/contact
+- 🌱 Currently learning: Python, Javascript, Web Building, Smart Contracts
+- 📫 How to reach us: https://bardosthodolworks.com/btw/contact
 
 <!---
 bathworks/bathworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
